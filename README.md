@@ -19,5 +19,3 @@ In this project i've selected __RandomForestClassifier__ Algorithem which gives 
  __A Machine learning web app, deployed in heroku__
 * If you want to check the quality of the wine just __go__ through this link :- [wine Quality checker](https://wine-pred-101803655-rajeev.herokuapp.com/)
 
-> Below the website actually look like
-![wine_screen png](https://user-images.githubusercontent.com/64009514/102008781-180fbb80-3d59-11eb-9b04-74d3403f10b9.jpg)
